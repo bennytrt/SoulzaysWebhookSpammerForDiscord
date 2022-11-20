@@ -6,7 +6,7 @@ If u have questions or suggestions, ask them in the discussions page.
 ----------------------------------------------------------------------------------------------
 Clone the repo git clone https://github.com/bennytrt/SoulzaysWebhookSpammerForDiscord.git
 
-Run the SoulzaysWebhookSpammer.exe file.
+Run the main.exe file.
 
 
 ----------------------------------------------------------------------------------------
